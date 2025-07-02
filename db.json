@@ -1,0 +1,98 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Shruti",
+      "lastName": "EK",
+      "email": "sek@gmail.com",
+      "mobile": "9878568372",
+      "fees": "450000",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "firstName": "Alpana",
+      "lastName": "Robby",
+      "email": "alpanarobby@gmail.com",
+      "mobile": "7981131964",
+      "fees": "400000",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "firstName": "Shobha",
+      "lastName": "Robby",
+      "email": "sr@gmail.com",
+      "mobile": "9374682635",
+      "fees": "300000",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "firstName": "dummy",
+      "lastName": "dummy",
+      "email": "dummy@gmail.com",
+      "mobile": "6748593875",
+      "fees": "60000",
+      "status": "Deactive"
+    },
+    {
+      "id": 6,
+      "firstName": "d2",
+      "lastName": "d2",
+      "email": "d2@gmail.com",
+      "mobile": "4657384756",
+      "fees": "300000",
+      "status": "Deactive"
+    },
+    {
+      "id": 7,
+      "firstName": "de",
+      "lastName": "de",
+      "email": "de@gmail.com",
+      "mobile": "7859837465",
+      "fees": "400001",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "firstName": "hello",
+      "lastName": "hello",
+      "email": "hello@gmail.com",
+      "mobile": "7897645362",
+      "fees": "500000",
+      "status": "Active"
+    },
+    {
+      "firstName": "ahsb",
+      "lastName": "aksdj",
+      "email": "aksdj@gmail.com",
+      "mobile": "9849384938",
+      "fees": "90000",
+      "status": "Deactive",
+      "id": 9
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "fees": null,
+      "status": "Deactive",
+      "id": 10
+    },
+    {
+      "firstName": "he",
+      "lastName": "hehe",
+      "email": "hehehe@gmail.com",
+      "mobile": "8394847383",
+      "fees": "60000",
+      "status": "Active",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
